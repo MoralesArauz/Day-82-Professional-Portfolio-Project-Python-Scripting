@@ -15,4 +15,5 @@ A small Python script that converts plain text into International Morse Code usi
 Run the script and enter text when prompted:
 
 ```sh
-python [text_to_morse_code_converter.py](http://_vscodecontentref_/0)
+
+python .\text_to_morse_code_converter.py
